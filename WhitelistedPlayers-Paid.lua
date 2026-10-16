@@ -6,4 +6,5 @@ return {
   ["SOE_GAGI"] = true,
   ["bahomp_pre"] = true,
   ["MOBPSYCHO850"] = true,
+  ["cham_lucky"] = true,
 }
