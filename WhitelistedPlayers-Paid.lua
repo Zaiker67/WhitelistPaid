@@ -7,4 +7,7 @@ return {
   ["bahomp_pre"] = true,
   ["MOBPSYCHO850"] = true,
   ["cham_lucky"] = true,
+  ["DeeV_LorD"] = true,
+  ["KingBaconMuscle1"] = true,
+  ["AKUNPALSU04"] = true,
 }
