@@ -10,4 +10,6 @@ return {
   ["DeeV_LorD"] = true,
   ["KingBaconMuscle1"] = true,
   ["AKUNPALSU04"] = true,
+  ["huhseller09"] = true,
+  ["santos0123078"] = true,
 }
