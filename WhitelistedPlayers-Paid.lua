@@ -13,6 +13,6 @@ return {
   ["huhseller09"] = true,
   ["santos0123078"] = true,
   ["DJ_Bumbai3"] = true,
-  ["Kian09629"] = true,
+  ["Kian_09629"] = true,
   ["Kian_alt157"] = true,
 }
