@@ -15,4 +15,6 @@ return {
   ["DJ_Bumbai3"] = true,
   ["Kian_09629"] = true,
   ["Kian_alt157"] = true,
+  ["Itsme_Omskun"] = true,
+  ["Gamestyeop"] = true,
 }
