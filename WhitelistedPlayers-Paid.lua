@@ -17,4 +17,5 @@ return {
   ["Kian_alt157"] = true,
   ["Itsme_Omskun"] = true,
   ["gamestyeop"] = true,
+  ["LoYaL_KlLL413"] = true,
 }
